@@ -11,6 +11,14 @@ $ npm install dotenv express
 $ npm i -D @types/express @types/node nodemon ts-node typescript
 ```
 
+- install body-parser json
+
+```bash
+#!/bin/bash
+$ npm i body-parser
+
+```
+
 ## create express hello word
 
 - create example code: [app.ts](./src/app.ts)
